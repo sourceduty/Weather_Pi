@@ -114,6 +114,8 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080)
 ```
 
+![Box Concept](https://github.com/sourceduty/Weather_Pi/assets/123030236/055118e7-12ed-46c3-8a2d-9632b812023e)
+
 ***
 
 🛈 This software is free and open-source; anyone can redistribute it and/or modify it.
