@@ -6,7 +6,7 @@ Conceptual plan for a Raspberry Pi project that involves collecting local weathe
 ### Hardware Components
 
 1. Raspberry Pi (any model with Wi-Fi capability, e.g., Raspberry Pi 3/4)
-2. DHT22 or BME280 sensor (for temperature and humidity readings)
+2. DHT22, DHT11 or BME280 sensor (for temperature and humidity readings)
 3. BMP180 or BMP280 sensor (for barometric pressure readings)
 4. Real Time Clock (RTC) module (e.g., DS3231 for accurate time keeping)
 5. MicroSD card (for OS installation and data storage)
