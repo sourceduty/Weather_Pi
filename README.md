@@ -10,8 +10,9 @@ Conceptual plan for a Raspberry Pi project that involves collecting local weathe
 3. BMP180 or BMP280 sensor (for barometric pressure readings)
 4. Real Time Clock (RTC) module (e.g., DS3231 for accurate time keeping)
 5. MicroSD card (for OS installation and data storage)
-6. Power supply for Raspberry Pi
-7. Optional: Weatherproof enclosure for outdoor sensor deployment
+6. Power supply for Raspberry Pi (powerbank)
+7. Portable solar panel
+8. 3D printed weatherproof enclosure for outdoor sensor deployment
 
 #
 ### Software and Libraries
